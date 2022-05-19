@@ -11,5 +11,8 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000/dashboard](http://localhost:3000/dashboard) to view it in your browser.
 
+login: username
+password: password
+
 
 
