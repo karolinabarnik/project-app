@@ -1,0 +1,33 @@
+.formAddComment {
+    display: flex;
+    padding-top: 10px;
+}
+
+.labelAuthor {
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+.labelAuthorInput {
+    font-size: 20px;
+}
+
+.labelForm {
+    font-size: 20px;
+
+}
+
+.labelComment {
+    font-size: 20px;
+
+}
+
+.buttonForm {
+    margin: 10px 0px;
+    padding: 10px;
+    font-size: 20px;
+    width: 90px;
+    height: 40px;
+    background-color: #222;
+    color: white;
+}

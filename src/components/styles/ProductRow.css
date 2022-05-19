@@ -1,0 +1,33 @@
+.productTag {
+    padding: 20px 0px 20px 120px;
+    margin: 20px;
+    font-size: 20px;
+}
+
+.productName {
+    padding: 20px;
+    font-size: 20px;
+}
+
+.productPrice {
+    padding: 20px 70px 20px 50px;
+}
+
+.productAuthor {
+    padding: 20px 0px 20px 50px;
+}
+
+.productRating {
+    padding: 20px 30px 20px 100px;
+
+}
+
+.productPublisher {
+    padding: 20px 60px 20px 90px;
+
+}
+
+.productComment {
+    padding: 20px 0px 20px 80px;
+}
+

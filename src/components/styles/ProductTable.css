@@ -1,0 +1,26 @@
+.container {
+    color: #222;
+    min-width: 90%;
+}
+
+.table {
+    padding-right: 50px;
+    margin-right: 40px; 
+    font-size: 30px;
+    min-width: 90%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.title, .price, .author, .rating, .tag, .comment, .publisher {
+    padding: 20px 40px;
+}
+
+.publisher {
+    font-size: 30px;
+}
+.tableRows {
+    padding: 20px;
+}
+
+

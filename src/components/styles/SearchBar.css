@@ -1,0 +1,20 @@
+.inputSearch {
+    width: 30vw;
+    font-size: 30px;
+    margin: auto;
+    display: block;
+}
+
+.inputCheckbox {
+    font-size: 30px;
+    min-width: 90%;
+    margin: auto;
+    text-align: center;
+    padding: 15px;
+}
+
+.inputCheck {
+    width: 20px;
+    height: 20px;
+}
+

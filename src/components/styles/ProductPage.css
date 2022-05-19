@@ -1,0 +1,75 @@
+.container {
+    display: flex;
+    color: #222;
+    justify-content: center;
+    align-items: center;
+    margin: 50px 50px 50px 50px; 
+    flex-wrap: wrap;
+}
+
+.article {
+    display: flex;
+    padding: 10px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 50px 0 ;
+    
+}
+
+.articleImage {
+    display: flex;
+    margin: 90px 0 ;
+
+}
+
+.articleBloc {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    max-width: 25vw;
+}
+
+article h3 {
+    font-size: 40px;
+}
+
+.articleAuthor {
+    font-size: 30px;
+}
+
+.articleImage {
+    max-height: 20vh;
+    display: flex;
+}
+
+.comments {
+    font-size: 20px;
+    padding: 5px 0;
+}
+.addComment {
+    font-size: 20px;
+    padding: 5px 0;
+    height: fit-content;
+
+}
+
+.tags {
+    font-size: 20px;
+    padding: 5px 0;
+}
+
+.articleRating {
+    font-size: 20px;
+    padding: 5px 0; 
+}
+
+.articlePrice {
+    font-size: 20px;
+    padding: 5px 0;
+}
+
+.publisher {
+    font-size: 20px;
+    padding: 5px 0;
+}
+

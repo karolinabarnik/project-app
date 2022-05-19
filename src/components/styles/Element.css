@@ -1,0 +1,16 @@
+.buttonElement {
+    margin: 10px 0px;
+    padding: 10px;
+    font-size: 20px;
+    width: 90px;
+    height: 40px;
+    background-color: #222;
+    color: white; 
+
+}
+
+.listElement {
+    margin: 20px 0;
+    padding: 20px 0;
+
+}
