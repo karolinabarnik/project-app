@@ -13,7 +13,7 @@ export default function Dashboard() {
       </header>
       <main>
         <aside>
-          <Navigation />
+      
         </aside>
       <section className="page">
           <Page />

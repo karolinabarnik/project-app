@@ -5,6 +5,9 @@ import image2 from '../images/2.jpg';
 import image3 from '../images/3.jpg';
 import image4 from '../images/4.jpg';
 import image5 from '../images/5.jpg';
+import Header from "../layouts/Header";
+import Navigation from "../layouts/Navigation";
+import '../styles/Homepage.css';
 
 
 const articles = [
@@ -89,9 +92,22 @@ const HomePage = () => {
     ))
     
     return (
+    <div className="dashboard">
     <div className="home">
+    <header>
+        <Header />
+    </header>
+    <main>
+    <aside>
+        <Navigation />
+    </aside>
+    <section className="page">
         {artList}
+    </section>
+    </main>
     </div>    
+
+</div>
     );
 }
 

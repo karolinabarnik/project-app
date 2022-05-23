@@ -12,6 +12,7 @@ import Comments from '../pages/Comments';
 import SearchComponent from '../pages/SearchComponent/SearchComponent';
 import { Provider } from 'react-redux'
 import store from '../store/store';
+import HomePage from '../pages/HomePage';
 
 
 function App() {
@@ -27,6 +28,7 @@ function App() {
       <h1>Books Collection</h1>
       <BrowserRouter>
         <Routes>
+          <Route path='/*' element={<HomePage/>} />
           <Route path="/dashboard" element={<Dashboard/>} />
           <Route path="/preferences" element={<Preferences />} />
           <Route path="/products" element={<ProductListPage/>} />
