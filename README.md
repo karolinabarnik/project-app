@@ -11,6 +11,7 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000/dashboard](http://localhost:3000/dashboard) to view it in your browser.
 
+<<<<<<< HEAD
 
 node server.js
 API is running on http://localhost:8080/login
@@ -22,3 +23,10 @@ password: password
 
 
 
+=======
+login: username
+password: password
+
+
+
+>>>>>>> 54a4bf6bbf09b511ab7b27e94627bbcc691366da
